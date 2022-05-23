@@ -11,3 +11,9 @@ a{
     padding: .5em 1em;
     border-radius: 10px;
 }
+ul{
+    list-style-type: none;
+}
+li{
+    padding: 5px 0;
+}
